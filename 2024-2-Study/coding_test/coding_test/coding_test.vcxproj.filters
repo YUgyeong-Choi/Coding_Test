@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\chap2">
       <UniqueIdentifier>{7a8f752c-b526-43c6-b887-2a8429fd7c49}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chap3">
+      <UniqueIdentifier>{172fe42c-87ee-45fd-8bb2-9e8b66e353bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0to100Random.cpp">
@@ -32,6 +35,15 @@
     </ClCompile>
     <ClCompile Include="practiceDebug.cpp">
       <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
+    <ClCompile Include="UseVector.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="pro1.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="pro2.cpp">
+      <Filter>소스 파일\chap3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

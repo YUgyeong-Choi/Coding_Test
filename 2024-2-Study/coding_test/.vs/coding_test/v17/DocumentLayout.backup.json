@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\pro2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|solutionrelative:coding_test\\pro2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\pro1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|solutionrelative:coding_test\\pro1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\UseVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|solutionrelative:coding_test\\UseVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\practiceDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|solutionrelative:coding_test\\practiceDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\0to100Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65DCB95C-DC96-453B-96B0-0406DB053431}|coding_test\\coding_test.vcxproj|solutionrelative:coding_test\\0to100Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pro2.cpp",
+              "DocumentMoniker": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\pro2.cpp",
+              "RelativeDocumentMoniker": "coding_test\\pro2.cpp",
+              "ToolTip": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\pro2.cpp",
+              "RelativeToolTip": "coding_test\\pro2.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T07:15:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pro1.cpp",
+              "DocumentMoniker": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\pro1.cpp",
+              "RelativeDocumentMoniker": "coding_test\\pro1.cpp",
+              "ToolTip": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\pro1.cpp",
+              "RelativeToolTip": "coding_test\\pro1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T06:57:35.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UseVector.cpp",
+              "DocumentMoniker": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\UseVector.cpp",
+              "RelativeDocumentMoniker": "coding_test\\UseVector.cpp",
+              "ToolTip": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\UseVector.cpp",
+              "RelativeToolTip": "coding_test\\UseVector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T06:46:31.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "practiceDebug.cpp",
+              "DocumentMoniker": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\practiceDebug.cpp",
+              "RelativeDocumentMoniker": "coding_test\\practiceDebug.cpp",
+              "ToolTip": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\practiceDebug.cpp",
+              "RelativeToolTip": "coding_test\\practiceDebug.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T06:45:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "0to100Random.cpp",
+              "DocumentMoniker": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\0to100Random.cpp",
+              "RelativeDocumentMoniker": "coding_test\\0to100Random.cpp",
+              "ToolTip": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\2024-2-Study\\coding_test\\coding_test\\0to100Random.cpp",
+              "RelativeToolTip": "coding_test\\0to100Random.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T06:45:25.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
