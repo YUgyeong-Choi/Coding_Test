@@ -45,5 +45,17 @@
     <ClCompile Include="pro2.cpp">
       <Filter>소스 파일\chap3</Filter>
     </ClCompile>
+    <ClCompile Include="pro3.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="pro4.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="pro5.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="pro6.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
