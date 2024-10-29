@@ -36,5 +36,11 @@
     <ClCompile Include="pro7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pro8.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro9.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
