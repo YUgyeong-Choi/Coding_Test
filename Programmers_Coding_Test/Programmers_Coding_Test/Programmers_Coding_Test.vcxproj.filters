@@ -42,5 +42,14 @@
     <ClCompile Include="pro9.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pro10.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro11.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro12.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
