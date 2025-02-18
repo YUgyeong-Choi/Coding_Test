@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{185E6612-8B7A-408B-9B6D-67322A3FCA7C}|sloved\\sloved.vcxproj|C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\11866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{185E6612-8B7A-408B-9B6D-67322A3FCA7C}|sloved\\sloved.vcxproj|solutionrelative:sloved\\11866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{185E6612-8B7A-408B-9B6D-67322A3FCA7C}|sloved\\sloved.vcxproj|C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\15829.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185E6612-8B7A-408B-9B6D-67322A3FCA7C}|sloved\\sloved.vcxproj|solutionrelative:sloved\\15829.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185E6612-8B7A-408B-9B6D-67322A3FCA7C}|sloved\\sloved.vcxproj|C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\2775.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185E6612-8B7A-408B-9B6D-67322A3FCA7C}|sloved\\sloved.vcxproj|solutionrelative:sloved\\2775.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "11866.cpp",
-              "DocumentMoniker": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\11866.cpp",
-              "RelativeDocumentMoniker": "sloved\\11866.cpp",
-              "ToolTip": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\11866.cpp",
-              "RelativeToolTip": "sloved\\11866.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "15829.cpp",
+              "DocumentMoniker": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\15829.cpp",
+              "RelativeDocumentMoniker": "sloved\\15829.cpp",
+              "ToolTip": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\15829.cpp",
+              "RelativeToolTip": "sloved\\15829.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T11:00:09.564Z",
+              "WhenOpened": "2025-02-18T10:46:49.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2775.cpp",
+              "DocumentMoniker": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\2775.cpp",
+              "RelativeDocumentMoniker": "sloved\\2775.cpp",
+              "ToolTip": "C:\\Users\\yugyeong\\Desktop\\Coding_Test\\sloved\\sloved\\2775.cpp",
+              "RelativeToolTip": "sloved\\2775.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T10:35:39.333Z",
               "EditorCaption": ""
             }
           ]
