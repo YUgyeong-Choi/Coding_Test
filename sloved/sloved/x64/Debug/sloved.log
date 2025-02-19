@@ -1,3 +1,2 @@
-﻿  15829.cpp
-C:\Users\yugyeong\Desktop\Coding_Test\sloved\sloved\15829.cpp(14,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  sloved.vcxproj -> C:\Users\yugyeong\Desktop\Coding_Test\sloved\x64\Debug\sloved.exe
+﻿  2839.cpp
+  sloved.vcxproj -> C:\Users\user\Desktop\Coding_Test\sloved\x64\Debug\sloved.exe

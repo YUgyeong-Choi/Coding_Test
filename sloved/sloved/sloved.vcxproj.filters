@@ -177,5 +177,17 @@
     <ClCompile Include="15829.cpp">
       <Filter>소스 파일\Level2</Filter>
     </ClCompile>
+    <ClCompile Include="1436.cpp">
+      <Filter>소스 파일\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="7568.cpp">
+      <Filter>소스 파일\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="1018.cpp">
+      <Filter>소스 파일\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="2839.cpp">
+      <Filter>소스 파일\Level2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
