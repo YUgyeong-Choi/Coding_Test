@@ -2,32 +2,38 @@
 using namespace std;
 
 int main() {
-	double arr[10001];
+	int rope[10001];
 	int k, n;
 	cin >> k >> n;
+
 	for (int i = 0; i < k; ++i) {
-		cin>> arr[i];
+		cin >> rope[i];
 	}
 
-	double length = 1, cnt=0, max=0;
-
+	int num = 1;
+	int total = 0;
+	int maxNum=0;
 	while (1) {
 		for (int i = 0; i < k; ++i) {
-			cnt += arr[i] / length;
+			total += rope[i] / num;
 		}
 
-		if (cnt >= n) {
-			if (max <= length) {
-				max = length;
-			}
+		cout << total << "\n";
+
+		if (total == (n+1) && maxNum < num) {
+			maxNum = num;
 		}
-		else {
+
+		if (total < n) {
 			break;
 		}
-		cnt = 0;
-		length++;
+
+		total = 0;
+		num++;
 	}
 
-	cout << max;
+	cout << maxNum;
+
+
 	return 0;
 }
